@@ -4,6 +4,8 @@
 
 This repo contains code for pre-processing and vectorizing raw text collected from 85,000 news articles downloaded from a variety of online broadsheet newspapers and newswires covering finance, business and the economy.
 
+A detailed blog post can be found at http://mattmurray.net/topic-modelling-financial-news-with-natural-language-processing/
+
 ![Article counts by year](articles_by_year.png "Article counts by year")
 
 The data was pre-processed with the removal of stop words, punctuation and numbers, and the words were stemmed using the Snowball stemmer.
