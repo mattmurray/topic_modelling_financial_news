@@ -13,10 +13,12 @@ The data was vectorized into a TF-IDF matrix, then Latent Semantic Analysis tech
 Finally, the latent features were clustered into topic clusters and the trends in the topics visualized over time.
 
 ## Outcome
-<center>
-<img src="country_region_chart.png" width="600">
-
-<img src="cb_regulation_chart.png" width="600">
-
-<img src="economy_chart.png" width="600">
-</center>
+<p align="center">
+  <img src="country_region_chart.png" width="700">
+</p>
+<p align="center">
+  <img src="cb_regulation_chart.png" width="700">
+</p>
+<p align="center">
+  <img src="economy_chart.png" width="700">
+</p>
