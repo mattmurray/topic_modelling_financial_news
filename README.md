@@ -1,1 +1,21 @@
-# topic_modelling_financial_news
+# Topic Modelling on Financial News Articles
+
+## Summary
+
+This repo contains code for pre-processing and vectorizing raw text collected from 85,000 news articles downloaded from a variety of online broadsheet newspapers and newswires covering finance, business and the economy.
+
+![Article counts by year](articles_by_year.png "Article counts by year")
+
+The data was pre-processed with the removal of stop words, punctuation and numbers, and the words were stemmed using the Snowball stemmer.
+
+The data was vectorized into a TF-IDF matrix, then Latent Semantic Analysis techniques were applied to reduce the dimensions into a smaller number of latent features.
+
+Finally, the latent features were clustered into topic clusters and the trends in the topics visualized over time.
+
+## Outcome
+
+![Country & Region specific](country_region_chart.png "Country/Region chart")
+
+![Central Banks and Regulation](cb_regulation_chart.png "Central Banks/Regulation")
+
+![The Economy](economy_chart.png "The Economy")
