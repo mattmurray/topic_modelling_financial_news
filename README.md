@@ -14,8 +14,8 @@ Finally, the latent features were clustered into topic clusters and the trends i
 
 ## Outcome
 
-![Country & Region specific](country_region_chart.png "Country/Region chart")
+<img src="country_region_chart.png" width="500">
 
-![Central Banks and Regulation](cb_regulation_chart.png "Central Banks/Regulation")
+<img src="cb_regulation_chart.png" width="500">
 
-![The Economy](economy_chart.png "The Economy")
+<img src="economy_chart.png" width="500">
